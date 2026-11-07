@@ -1,0 +1,352 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 552,
+    "time": 1794023135,
+    "hash": "48beb874c7ba3cbb91b5e7aa607af4496d095aee"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1789129541,
+    "hash": "beb1daabd4ec96fc6a7aa5770055ebf7c21cfb16"
+  },
+  "README.md": {
+    "size": 1538,
+    "time": 1790045311,
+    "hash": "59348afc69a2ee61b6a4b85bd18ff5de5a8ebce6"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1789129541,
+    "hash": "beb1daabd4ec96fc6a7aa5770055ebf7c21cfb16"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1789129541,
+    "hash": "beb1daabd4ec96fc6a7aa5770055ebf7c21cfb16"
+  },
+  "exams/物理光学模拟考试题参考答案.pdf": {
+    "size": 583763,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "exams/简答题参考答案(1).pdf": {
+    "size": 747195,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1789129541,
+    "hash": "beb1daabd4ec96fc6a7aa5770055ebf7c21cfb16"
+  },
+  "labs/实验1报告_光的偏振.docx": {
+    "size": 487840,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验2报告_光的衍射.docx": {
+    "size": 487704,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验2指导书_光的衍射实验.pdf": {
+    "size": 1483475,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验3报告_光的干涉.docx": {
+    "size": 494919,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验3指导书_光的干涉实验.pdf": {
+    "size": 2634077,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/2023311101_罗模煊_光的偏振.pdf": {
+    "size": 936402,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验1报告_光的偏振.docx": {
+    "size": 1345332,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/111.1.bmp": {
+    "size": 2332530,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/111.txt": {
+    "size": 401,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/222.2.2.bmp": {
+    "size": 2332530,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/222.2.bmp": {
+    "size": 2332530,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/222.2.txt": {
+    "size": 328,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/222.txt": {
+    "size": 327,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData.zip": {
+    "size": 161756,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/111.txt": {
+    "size": 401,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/222.2.txt": {
+    "size": 328,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/222.txt": {
+    "size": 327,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/333.1.txt": {
+    "size": 379,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/333.2.bmp": {
+    "size": 2332530,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/333.2.txt": {
+    "size": 378,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/333.3.bmp": {
+    "size": 2332530,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/333.3.txt": {
+    "size": 380,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/333.bmp": {
+    "size": 2332530,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验一/实验数据/SavedData/SavedData/exp_3_2.m": {
+    "size": 1072,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验三/2023311101_罗模煊_实验3报告_光的干涉.pdf": {
+    "size": 1353374,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验三/exp_1.m": {
+    "size": 3807,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验三/exp_2.m": {
+    "size": 2507,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验三/实验3报告_光的干涉.docx": {
+    "size": 5785293,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验三/实验3报告_光的干涉.pdf": {
+    "size": 283101,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验三/实验3指导书_光的干涉实验.pdf": {
+    "size": 2634077,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验三/新建 Microsoft Word 文档.docx": {
+    "size": 3592037,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验二/2023311101_罗模煊_物理光学实验2报告.docx": {
+    "size": 3109216,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验二/2023311101_罗模煊_物理光学实验2报告.pdf": {
+    "size": 1700494,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验二/实验2指导书_光的衍射实验.pdf": {
+    "size": 1483475,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "labs/实验二/新建 Microsoft Word 文档(2).docx": {
+    "size": 1444523,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "materials/物理光学与应用光学第四版(石顺祥,王学恩,马琳).pdf": {
+    "size": 37140488,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1789129541,
+    "hash": "beb1daabd4ec96fc6a7aa5770055ebf7c21cfb16"
+  },
+  "notes/物理光学公式推导.pdf": {
+    "size": 244394,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "notes/物理光学笔记.pdf": {
+    "size": 17622566,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "notes/简答题参考答案(1).pdf": {
+    "size": 756923,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "readme.toml": {
+    "size": 1610,
+    "time": 1790045327,
+    "hash": "a5267d31eb76f85a71aaa21b249fd965798d2196"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1789129541,
+    "hash": "beb1daabd4ec96fc6a7aa5770055ebf7c21cfb16"
+  },
+  "slides/1.1 导论课V2(1).pdf": {
+    "size": 1442046,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/1_3.3 菲涅尔衍射(1).pdf": {
+    "size": 1513973,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/2.1.1 -2.1.2.1 产生干涉的条件与杨氏干涉V2(2).pdf": {
+    "size": 1145006,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/2.1.2.2 等倾干涉(1).pdf": {
+    "size": 1198909,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/2.1.2.3 等厚干涉V2(1).pdf": {
+    "size": 689875,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/2.2 平行平板多光束干涉v2(1).pdf": {
+    "size": 771147,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/2.3 光学薄膜V2(1).pdf": {
+    "size": 944330,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/2.4 典型干涉仪及其应用V2(1).pdf": {
+    "size": 1385799,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/2.5 光的相干性V2(1).pdf": {
+    "size": 1324672,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/3.1 衍射基本理论V2(1).pdf": {
+    "size": 1634555,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/3.2_part1 夫朗和费衍射（矩形孔、圆孔）(1).pdf": {
+    "size": 1750564,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/3.2_part2 夫朗和费衍射（成像系统分辨本领、单缝、多缝、巴俾涅原理）(1).pdf": {
+    "size": 2296876,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/3.4 衍射光栅及其应用(1).pdf": {
+    "size": 1178143,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/4.1-4.2.1_PartI 晶体的光学各向异性及其光学传播特性(1).pdf": {
+    "size": 1591279,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/4.2.1_PartII 光在几种特殊晶体中的传播特性及离散角.pdf": {
+    "size": 866980,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/4.2.2 光在晶体中的几何法描述.pdf": {
+    "size": 2060687,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/4.3-4.5 晶体的反射与折射、玻片及偏光干涉(1).pdf": {
+    "size": 2205321,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/物理光学前三章内容总结(2).pdf": {
+    "size": 1682281,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/第五章 晶体的感应双折射(1).pdf": {
+    "size": 1218651,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  },
+  "slides/第六章(1).pdf": {
+    "size": 1027661,
+    "time": 1789140783,
+    "hash": "37716a71ae59766bb20b753a446327cbc41abf74"
+  }
+}
